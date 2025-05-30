@@ -291,9 +291,6 @@ body {
                         <li><a href="#">20th Century Girl</a></li>
                         <li><a href="#">Romeo+Juliet</a></li>
                         <li><a href="#"></a></li>
-                    </ul>
-        </div>
-    </nav>
 <div class="container">
  <!-- Film 1 -->
  <div class="film-card">
