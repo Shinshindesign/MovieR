@@ -292,8 +292,6 @@ body {
                         <li><a href="#">Romeo+Juliet</a></li>
                         <li><a href="#"></a></li>
                     </ul>
-                </li>
-                </ul>
         </div>
     </nav>
 <div class="container">
